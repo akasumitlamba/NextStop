@@ -169,6 +169,14 @@ a {
     box-shadow: 0 6px 20px rgba(46, 139, 87, 0.4);
 }
 
+.email-link {
+  text-decoration: none;
+  color: inherit;
+}
+.email-link:hover {
+  text-decoration: underline;
+}
+
 /* Hero Section Styles */
 .hero-section {
     height: 100vh;
